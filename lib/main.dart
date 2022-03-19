@@ -276,7 +276,7 @@ class _logState extends State<log> {
                                       child: Center(
                                           child: ElevatedButton(
                                         style: ElevatedButton.styleFrom(
-                                          primary: Colors.black, // background
+                                          primary: Colors.amber, // background
                                           onPrimary: Colors.white, // foreground
                                         ),
                                         //  color: Colors.blueAccent,
